@@ -1,0 +1,3 @@
+#This sets the users listed here as codeowners. They will be notified every time there is a pull request. 
+#I'm really just trying to learn github - this may not be necessary for us. 
+*       @randallwvr90
