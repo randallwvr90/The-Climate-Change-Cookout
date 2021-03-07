@@ -11,6 +11,7 @@ When no visitors are present, the installation will be mostly silent. At random 
 
 
 2.	A physical implementation consisting of a greenhouse, bonfire (non-burning), toys (for selections), and blow-mold snowpersons.
+
 How can the physical implementation interact with the greenhouse gas calculator: inputs? outputs?
 
 
